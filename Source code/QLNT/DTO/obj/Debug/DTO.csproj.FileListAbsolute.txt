@@ -1,0 +1,6 @@
+C:\Users\An Viet Computer\source\repos\QLNT\DTO\bin\Debug\DTO.dll
+C:\Users\An Viet Computer\source\repos\QLNT\DTO\bin\Debug\DTO.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\An Viet Computer\source\repos\QLNT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\An Viet Computer\source\repos\QLNT\DTO\obj\Debug\DTO.dll
+C:\Users\An Viet Computer\source\repos\QLNT\DTO\obj\Debug\DTO.pdb

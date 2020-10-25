@@ -1,0 +1,18 @@
+C:\Users\An Viet Computer\source\repos\QLNT\DAL\bin\Debug\DAL.dll
+C:\Users\An Viet Computer\source\repos\QLNT\DAL\bin\Debug\DAL.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\An Viet Computer\source\repos\QLNT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\An Viet Computer\source\repos\QLNT\DAL\obj\Debug\DAL.dll
+C:\Users\An Viet Computer\source\repos\QLNT\DAL\obj\Debug\DAL.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\DAL\bin\Debug\DAL.dll
+D:\STUDY\HOC KY 7\C #\QLNT\DAL\bin\Debug\DAL.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\STUDY\HOC KY 7\C #\QLNT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\STUDY\HOC KY 7\C #\QLNT\DAL\obj\Debug\DAL.dll
+D:\STUDY\HOC KY 7\C #\QLNT\DAL\obj\Debug\DAL.pdb
+E:\QLNT\QLNT\DAL\bin\Debug\DAL.dll
+E:\QLNT\QLNT\DAL\bin\Debug\DAL.pdb
+E:\QLNT\QLNT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\QLNT\QLNT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\QLNT\QLNT\DAL\obj\Debug\DAL.dll
+E:\QLNT\QLNT\DAL\obj\Debug\DAL.pdb

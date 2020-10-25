@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A41AF8F-839E-4799-902B-3B82FDD15B9B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UngVanTuan\BookingDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UngVanTuan\BookingDetail.Designer.cs">
+      <DependentUpon>BookingDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UngVanTuan\Booking_room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UngVanTuan\Booking_room.Designer.cs">
+      <DependentUpon>Booking_room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UngVanTuan\Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UngVanTuan\Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NguyenBaoDai\Room.Designer.cs">
+      <DependentUpon>Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="UngVanTuan\BookingDetail.resx">
+      <DependentUpon>BookingDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UngVanTuan\Booking_room.resx">
+      <DependentUpon>Booking_room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UngVanTuan\Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NguyenBaoDai\Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NguyenBaoDai\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NguyenBaoDai\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NguyenBaoDai\Room.resx">
+      <DependentUpon>Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{f9346d2d-e388-4289-a877-e415073a546b}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{210202c9-1eb1-4468-b0f9-52e7198d8694}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{f83405f5-e255-4b59-a8a8-0fc94e7fdc77}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="image\icon2\accounting_20px.png" />
+    <Content Include="image\icon2\add_file_20px.png" />
+    <Content Include="image\icon2\add_new_20px.png" />
+    <Content Include="image\icon2\cancel_20px.png" />
+    <Content Include="image\icon2\delete_20px.png" />
+    <Content Include="image\icon2\edit_20px.png" />
+    <Content Include="image\icon2\edit_file_20px.png" />
+    <Content Include="image\icon2\exit_20px.png" />
+    <Content Include="image\icon2\login_20px.png" />
+    <Content Include="image\icon2\plus_20px.png" />
+    <Content Include="image\icon2\printer_20px.png" />
+    <Content Include="image\icon2\reset_20px.png" />
+    <Content Include="image\icon2\save_20px3.png" />
+    <Content Include="image\icon2\search_20px.png" />
+    <Content Include="image\icon2\template_20px.png" />
+    <Content Include="image\icon2\trash_20px.png" />
+    <Content Include="image\icon\green-home-icon.svg.med %281%29.png" />
+    <Content Include="image\icon\icons8_add_30px_1.png" />
+    <Content Include="image\icon\icons8_bill_26px.png" />
+    <Content Include="image\icon\icons8_contacts_32px.png" />
+    <Content Include="image\icon\icons8_customer_26px.png" />
+    <Content Include="image\icon\icons8_globe_90px.png" />
+    <Content Include="image\icon\icons8_home_26px.png" />
+    <Content Include="image\icon\icons8_lock_26px.png" />
+    <Content Include="image\icon\image-asset.png" />
+    <Content Include="image\icon\images.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

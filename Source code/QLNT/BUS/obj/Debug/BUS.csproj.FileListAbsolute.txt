@@ -1,0 +1,33 @@
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\bin\Debug\BUS.dll
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\bin\Debug\BUS.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\bin\Debug\DAL.dll
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\bin\Debug\DTO.dll
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\bin\Debug\DAL.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\bin\Debug\DTO.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\obj\Debug\BUS.dll
+C:\Users\An Viet Computer\source\repos\QLNT\BUS\obj\Debug\BUS.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\bin\Debug\BUS.dll
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\bin\Debug\BUS.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\bin\Debug\DAL.dll
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\bin\Debug\DTO.dll
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\bin\Debug\DAL.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\bin\Debug\DTO.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\obj\Debug\BUS.dll
+D:\STUDY\HOC KY 7\C #\QLNT\BUS\obj\Debug\BUS.pdb
+E:\QLNT\QLNT\BUS\bin\Debug\BUS.dll
+E:\QLNT\QLNT\BUS\bin\Debug\BUS.pdb
+E:\QLNT\QLNT\BUS\bin\Debug\DAL.dll
+E:\QLNT\QLNT\BUS\bin\Debug\DTO.dll
+E:\QLNT\QLNT\BUS\bin\Debug\DAL.pdb
+E:\QLNT\QLNT\BUS\bin\Debug\DTO.pdb
+E:\QLNT\QLNT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\QLNT\QLNT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\QLNT\QLNT\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\QLNT\QLNT\BUS\obj\Debug\BUS.dll
+E:\QLNT\QLNT\BUS\obj\Debug\BUS.pdb

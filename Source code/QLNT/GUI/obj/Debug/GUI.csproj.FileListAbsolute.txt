@@ -1,0 +1,69 @@
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\GUI.exe.config
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\GUI.exe
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\GUI.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\BUS.dll
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\DAL.dll
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\DTO.dll
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\BUS.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\DAL.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\bin\Debug\DTO.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.GUI.Bill.resources
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.exe
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.pdb
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.GUI.Room.resources
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.GUI.Home.resources
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.GUI.Login.resources
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.GUI.Booking_room.resources
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.BookingDetail.resources
+C:\Users\An Viet Computer\source\repos\QLNT\GUI\obj\Debug\GUI.Customer.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\GUI.exe.config
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\GUI.exe
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\GUI.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\BUS.dll
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\DAL.dll
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\DTO.dll
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\BUS.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\DAL.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\bin\Debug\DTO.pdb
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.BookingDetail.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.GUI.Booking_room.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.Customer.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.GUI.Bill.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.GUI.Home.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.GUI.Login.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.GUI.Room.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.exe
+D:\STUDY\HOC KY 7\C #\QLNT\GUI\obj\Debug\GUI.pdb
+E:\QLNT\QLNT\GUI\bin\Debug\GUI.exe.config
+E:\QLNT\QLNT\GUI\bin\Debug\GUI.exe
+E:\QLNT\QLNT\GUI\bin\Debug\GUI.pdb
+E:\QLNT\QLNT\GUI\bin\Debug\BUS.dll
+E:\QLNT\QLNT\GUI\bin\Debug\DAL.dll
+E:\QLNT\QLNT\GUI\bin\Debug\DTO.dll
+E:\QLNT\QLNT\GUI\bin\Debug\BUS.pdb
+E:\QLNT\QLNT\GUI\bin\Debug\DAL.pdb
+E:\QLNT\QLNT\GUI\bin\Debug\DTO.pdb
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.BookingDetail.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.GUI.Booking_room.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.Customer.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.GUI.Bill.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.GUI.Home.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.GUI.Login.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.GUI.Room.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.exe
+E:\QLNT\QLNT\GUI\obj\Debug\GUI.pdb
